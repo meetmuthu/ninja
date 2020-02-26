@@ -129,4 +129,5 @@ enable_testing()
 add_test(NinjaTest ninja_test)
 
 install(TARGETS ninja DESTINATION bin)
-#Testing new setting
+
+#Testing something
